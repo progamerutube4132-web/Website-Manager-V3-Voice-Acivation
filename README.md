@@ -53,7 +53,8 @@ Make sure your microphone is enabled and allowed for the application.
 
 | Main Launchpad 
 |---------------|
-| ![Launchpad]<img width="1195" height="948" alt="Screenshot 2026-11-02 195246" src="https://github.com/user-attachments/assets/27bc169e-dc7d-4687-a632-78411f0f51ab" />
+| ![Launchpad]<img width="1192" height="941" alt="Screenshot 2026-11-02 195843" src="https://github.com/user-attachments/assets/b744d187-dc10-436f-9c65-05da62dc9fc3" />
+
 
 
 ## Contributing
