@@ -24,9 +24,10 @@ Version 3 adds full voice activation and 24 new apps, so you can launch anything
 
 ## Download & Installation
 
-1. Download the `WebsiteManagerV3.exe` file
-2. Run the `.exe` file
-3. (Optional) Create a desktop shortcut for quick access
+1. Go to the **Releases** page of this repository
+2. Download the latest `WebsiteManagerV3.exe`
+3. Run the `.exe` file
+4. (Optional) Create a desktop shortcut for quick access
 
 No installation required — just download and run.
 
